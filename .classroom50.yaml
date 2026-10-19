@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "nit-programming-language-2026"
+assignment: "0303-printf-format"
+secret: "nmm2dsr0"
+owner:
+  username: "yuuya-021"
+  id: 337910871
+  accepted_at: "2026-10-19T01:55:20Z"
+source:
+  owner: "nit-robotics-ProgrammingLanguage-2026"
+  owner_id: 326343566
+  repo: "template-task0303-scanf_format"
+  branch: "main"
